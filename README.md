@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abisai-luther
-- 👀 I’m interested in ...WEB DEVELOPMENT
+- 👀 I’m interested in ...TECH
 
-- 
-SOFTWARE DEVELOPER, Microsoft MVP, Student, .NET Developer, Love C# & .NET, OSS Contributor.
+- BUSINESS CENTRAL ENGINEER
+SOFTWARE DEVELOPER,  Student, .NET Developer, Love C# & .NET, OSS Contributor.
 
 <!---
 Abisai-luther/Abisai-luther is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
